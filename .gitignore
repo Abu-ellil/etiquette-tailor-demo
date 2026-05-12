@@ -93,3 +93,32 @@ out/
 
 # Design references ( Stitch exports)
 design/
+
+# Google Drive sync files
+**/GoogleDrive-*/
+**/gdrive*/
+**/cloudstorage*/
+sync_branch_*.json
+
+# AI and dev tools
+.opencode/
+.specify/
+.claude/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build artifacts
+out/
+dist/
+*.exe
+*.dmg
+*.deb
+*.rpm
