@@ -65,7 +65,7 @@ const config: ForgeConfig = {
     new PublisherGithub({
       repository: {
         owner: 'Abu-ellil',
-        name: 'etiquette-tailor',
+        name: 'etiquette-tailor-demo',
       },
     }),
   ],
